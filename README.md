@@ -1,33 +1,99 @@
-# Case Study: Menyusun Uraian Jabatan (Job Description Analysis)
+# 📋 Content Writer Job Description Analysis
 
-Studi kasus ini bertujuan untuk menyusun Job Description untuk posisi Content Writer dengan menerapkan konsep Job Analysis dalam Human Resource Management.
+![Cover](Job%201.jpg)
 
 ---
+
+## 📖 Project Overview
+
+This project is a Human Resource Management case study that focuses on conducting **Job Analysis** and developing a **Job Description** for the **Content Writer** position.
+
+The objective of this project is to demonstrate the process of identifying job responsibilities, reporting relationships, work materials, work tools, and expected outputs to create a structured and comprehensive job description.
+
+Through this project, I applied Human Resource Management concepts to design a clear job profile that can support recruitment, performance evaluation, onboarding, and workforce planning.
+
+---
+
+# 🎯 Learning Objectives
+
+- Understand the concept of Job Analysis.
+- Develop a complete Job Description.
+- Identify organizational reporting structures.
+- Define job responsibilities and work outputs.
+- Apply Human Resource Management principles in organizational design.
+
+---
+
+# 🛠 Skills Demonstrated
+
+- Human Resource Management
+- Job Analysis
+- Job Description Development
+- Organizational Structure Analysis
+- Workforce Planning
+- Analytical Thinking
+- Documentation
+
+---
+
+# 📄 Case Study
 
 ## 1. Cover
 
 ![Cover](Job%201.jpg)
 
-### Penjelasan
-Halaman ini merupakan sampul proyek yang berisi judul studi kasus, mata kuliah, dan identitas penyusun. Studi kasus ini menunjukkan kemampuan dalam melakukan analisis jabatan sebagai dasar penyusunan uraian pekerjaan.
+### Description
+
+This page introduces the case study entitled **"Job Description Analysis – Content Writer."** The project was completed as part of a Human Resource Management learning activity to practice developing structured job descriptions.
+
+The case study demonstrates how HR professionals analyze a position before recruitment begins.
 
 ---
 
-## 2. Identitas Jabatan
+## 2. Job Identity
 
-![Identitas Jabatan](Job%202.jpg)
+![Job Identity](Job%202.jpg)
 
-### Penjelasan
-Tahap pertama adalah menentukan identitas jabatan yang meliputi nama jabatan, unit kerja, dan atasan langsung. Informasi ini menjadi dasar untuk mengetahui posisi Content Writer dalam struktur organisasi sehingga proses rekrutmen dan pembagian tanggung jawab menjadi lebih jelas.
+### Description
+
+The first step in job analysis is defining the identity of the position.
+
+This section specifies:
+
+- Job Title
+- Department
+- Reporting Line
+- Job Code
+
+By clearly defining these elements, organizations can establish reporting relationships and clarify the position's role within the company.
+
+### Key Takeaways
+
+- Position: Content Writer
+- Department: Marketing
+- Reports to: Head of Marketing
 
 ---
 
-## 3. Kedudukan dalam Organisasi
+## 3. Organizational Position
 
-![Struktur Organisasi](Job%203.jpg)
+![Organization Structure](Job%203.jpg)
 
-### Penjelasan
-Bagan organisasi digunakan untuk menunjukkan hubungan kerja Content Writer dengan posisi lain. Content Writer berada di bawah Content Manager yang bertanggung jawab kepada Head of Marketing dan berkolaborasi dengan Graphic Designer, Social Media Specialist, serta SEO Specialist.
+### Description
+
+This organizational chart illustrates where the Content Writer fits within the company's hierarchy.
+
+The Content Writer works under the **Content Manager**, while both the Content Manager and Digital Marketing Manager report directly to the Head of Marketing.
+
+This visualization helps explain communication channels and collaboration among different roles.
+
+### Collaboration
+
+The Content Writer frequently collaborates with:
+
+- Graphic Designer
+- Social Media Specialist
+- SEO Specialist
 
 ---
 
@@ -35,32 +101,146 @@ Bagan organisasi digunakan untuk menunjukkan hubungan kerja Content Writer denga
 
 ![Job Summary](Job%204.jpg)
 
-### Penjelasan
-Job Summary menjelaskan gambaran umum pekerjaan Content Writer menggunakan pendekatan **Apa yang dikerjakan**, **Bagaimana cara mengerjakannya**, dan **Tujuan pekerjaan**. Ringkasan ini membantu memahami kontribusi utama posisi tersebut terhadap strategi pemasaran perusahaan.
+### Description
+
+The Job Summary provides an overview of the position by answering three important questions:
+
+### What?
+
+Develop, write, edit, and optimize digital content.
+
+### How?
+
+Through research, writing, editing, and SEO optimization following company guidelines.
+
+### Why?
+
+To support the company's marketing strategy and increase audience engagement through high-quality content.
 
 ---
 
-## 5. Uraian Tugas
+## 5. Job Responsibilities
 
-![Uraian Tugas](Job%205.jpg)
+![Job Description](Job%205.jpg)
 
-### Penjelasan
-Bagian ini menjelaskan tanggung jawab utama seorang Content Writer, mulai dari melakukan riset, menulis konten, melakukan editing, mengoptimalkan SEO, hingga berkolaborasi dengan tim pemasaran. Daftar tugas ini menjadi acuan dalam pelaksanaan pekerjaan sehari-hari.
+### Description
+
+This section outlines the primary duties of a Content Writer.
+
+Main responsibilities include:
+
+- Conduct keyword and topic research.
+- Write articles and blog posts.
+- Produce social media content.
+- Edit and revise written materials.
+- Optimize content using SEO principles.
+- Collaborate with the marketing and design teams.
+
+These responsibilities become the basis for recruitment, onboarding, and performance evaluation.
 
 ---
 
-## 6. Bahan Kerja
+## 6. Work Materials
 
-![Bahan Kerja](Job%206.jpg)
+![Work Materials](Job%206.jpg)
 
-### Penjelasan
-Halaman ini menunjukkan berbagai bahan kerja yang digunakan, seperti brief konten, hasil riset, brand guideline, dan referensi artikel. Seluruh bahan tersebut menjadi dasar dalam menghasilkan konten yang sesuai dengan kebutuhan perusahaan.
+### Description
+
+A Content Writer requires several work materials before producing content.
+
+These include:
+
+| Work Material | Purpose |
+|--------------|----------|
+| Content Brief | Writing guideline |
+| Research Data | Support content accuracy |
+| SEO Data | Search engine optimization |
+| Brand Guideline | Maintain writing consistency |
+| Article References | Improve information quality |
+
+These resources ensure that all published content aligns with organizational standards.
 
 ---
 
-## 7. Alat Kerja dan Hasil Kerja
+## 7. Work Tools & Expected Outputs
 
-![Alat Kerja dan Hasil Kerja](Job%207.jpg)
+![Work Tools](Job%207.jpg)
 
-### Penjelasan
-Bagian terakhir menjelaskan alat yang digunakan, seperti laptop dan Google Docs/Microsoft Word, serta target output pekerjaan. Hasil kerja berupa artikel, blog, dan konten media sosial disertai estimasi jumlah produksi dan waktu penyelesaiannya sebagai indikator produktivitas.
+### Description
+
+Besides work materials, Content Writers also require appropriate digital tools.
+
+### Work Tools
+
+- Laptop / Computer
+- Google Docs
+- Microsoft Word
+
+These tools are used to write, edit, and manage digital content efficiently.
+
+### Expected Outputs
+
+The expected work outcomes include:
+
+| Output | Target | Time |
+|---------|--------|------|
+| Articles / Blog Posts | 3–5 articles | Weekly |
+| Social Media Content | 10–20 posts | Monthly |
+
+These targets provide measurable indicators for evaluating employee performance.
+
+---
+
+# 💡 Reflection
+
+This project strengthened my understanding of how Human Resource professionals perform job analysis before recruitment.
+
+I learned that an effective Job Description is more than simply listing tasks. It clearly defines:
+
+- organizational relationships,
+- reporting structures,
+- work responsibilities,
+- work resources,
+- expected outputs,
+- and performance expectations.
+
+This experience improved my ability to analyze organizational roles and develop structured HR documentation.
+
+---
+
+# 📚 HR Concepts Applied
+
+- Job Analysis
+- Job Description
+- Organizational Structure
+- Workforce Planning
+- Recruitment Preparation
+- Performance Management
+
+---
+
+# 🚀 Tools Used
+
+- Microsoft Word
+- Canva
+- GitHub
+
+---
+
+# 👩 Author
+
+**Resti Anjeli**
+
+Psychology Student | Human Resource Enthusiast
+
+Interested in:
+
+- Human Resource Management
+- Industrial & Organizational Psychology
+- Recruitment & Selection
+- Organizational Development
+- Employee Assessment
+
+---
+
+⭐ Thank you for visiting this repository. Feedback and suggestions are always welcome!
